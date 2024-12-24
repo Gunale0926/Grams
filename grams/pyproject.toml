@@ -1,0 +1,19 @@
+[project]
+name = "grams"
+version = "0.0.1"
+authors = [
+  { name="Yang Cao", email="gunale0926@hotmail.com" },
+]
+description = "\"Grams: Gradient Descent with Adaptive Momentum Scaling\" implementation."
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+  'torch >= 1.8.0',
+]
+[project.urls]
+Homepage = "https://github.com/Gunale0926/Grams/"
+Issues = "https://github.com/Gunale0926/Grams/issues"
