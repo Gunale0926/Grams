@@ -1,5 +1,5 @@
 [project]
-name = "grams"
+name = "grams-pytorch"
 version = "0.0.1"
 authors = [
   { name="Yang Cao", email="gunale0926@hotmail.com" },
