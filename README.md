@@ -7,3 +7,14 @@
 ```bash
 pip install grams-pytorch
 ```
+
+## How to use
+Import:
+```python
+from grams import Grams
+```
+
+Instantiate:
+```python
+optimizer = Grams(lr=1e-3, weight_decay=0.0)
+```
