@@ -1,2 +1,4 @@
-# Grams
-Grams: Gradient Descent with Adaptive Momentum Scaling
+# Grams: Gradient Descent with Adaptive Momentum Scaling
+[![arXiv](https://img.shields.io/badge/arXiv-2412.17107-b31b1b.svg)](https://arxiv.org/abs/2412.17107)
+
+<img width="838" alt="image" src="https://github.com/user-attachments/assets/54f77c6c-54f8-480f-9070-11f0c5060cd0" />
