@@ -16,5 +16,5 @@ from grams import Grams
 
 Instantiate:
 ```python
-optimizer = Grams(lr=1e-3, weight_decay=0.0)
+optimizer = Grams(model.parameters(), lr=1e-3, weight_decay=0.0)
 ```
