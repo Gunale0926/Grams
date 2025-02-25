@@ -23,7 +23,7 @@ Switching from Adam/AdamW to Grams is simple and requires only two lines of code
 Before:
 ```python
 import torch
-optimizer = torch.optim.adam((model.parameters(), lr=1e-3, weight_decay=0.0)
+optimizer = torch.optim.adam(model.parameters(), lr=1e-3, weight_decay=0.0)
 ```
 
 Switching to Grams:
