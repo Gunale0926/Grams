@@ -1,4 +1,4 @@
-# Grams: Gradient Descent with Adaptive Momentum Scaling
+# Grams: Gradient Descent with Adaptive Momentum Scaling (ICLR 2025 SCOPE Workshop)
 [![arXiv](https://img.shields.io/badge/arXiv-2412.17107-b31b1b.svg)](https://arxiv.org/abs/2412.17107) [![PyPI - Version](https://img.shields.io/pypi/v/grams-pytorch)](https://pypi.org/project/grams-pytorch/)
 
 Authors: [Yang Cao](https://scholar.google.com/citations?user=pCrKkUQAAAAJ), [Xiaoyu Li](https://scholar.google.com/citations?hl=en&user=WgiSk4AAAAAJ), [Zhao Song](https://scholar.google.com/citations?user=yDZct7UAAAAJ)
