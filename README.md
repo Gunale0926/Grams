@@ -37,10 +37,12 @@ Just import Grams and swap the optimizer—everything else remains the same!
 
 Please cite our work!
 ```bibtex
-@article{cao2024grams,
-  title={Grams: Gradient Descent with Adaptive Momentum Scaling},
-  author={Cao, Yang and Li, Xiaoyu and Song, Zhao},
-  journal={arXiv preprint arXiv:2412.17107},
-  year={2024}
+@inproceedings{
+cao2025grams,
+title={Grams: Gradient Descent with Adaptive Momentum Scaling},
+author={Yang Cao and Xiaoyu Li and Zhao Song},
+booktitle={ICLR 2025 Workshop, First Workshop on Scalable Optimization for Efficient and Adaptive Foundation Models},
+year={2025},
+url={https://openreview.net/forum?id=GmKQnpQdsc}
 }
 ```
